@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/curso-introduccion-react/static/css/main.fbb80f02.css",
+    "main.js": "/curso-introduccion-react/static/js/main.04d4bd63.js",
+    "index.html": "/curso-introduccion-react/index.html",
+    "main.fbb80f02.css.map": "/curso-introduccion-react/static/css/main.fbb80f02.css.map",
+    "main.04d4bd63.js.map": "/curso-introduccion-react/static/js/main.04d4bd63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbb80f02.css",
+    "static/js/main.04d4bd63.js"
+  ]
+}
