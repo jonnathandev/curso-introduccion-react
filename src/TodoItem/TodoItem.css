@@ -1,0 +1,28 @@
+.list{
+    align-items: center;
+    border: 1px solid black;
+    display: flex;
+    font-weight: 5ß00;
+    justify-content: space-between;
+    list-style: none;
+    margin-bottom: 14px;
+    padding: 0 8px;
+}
+
+
+.list:hover{
+    background-color: #D8D2CB;
+    font-weight: 900;
+}
+
+.list--check{
+    font-size: 20px;
+}
+
+.list--check__completed{
+    color:green
+}
+
+.list--p__completed{
+    text-decoration: line-through;
+}

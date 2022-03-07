@@ -1,0 +1,11 @@
+.section--container{
+    background-color: #EEEEEE;
+    padding: 14px;
+    width: 450px;
+
+}
+
+.section--container ul{
+    margin: 0;
+    padding: 0;
+}

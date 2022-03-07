@@ -1,0 +1,8 @@
+.input--search{
+    height: 24px;
+    min-width: 450px;
+    font-size: 12px;
+    border-radius: 4px;
+    outline-color: #398AB9;
+    border-color: #1C658C;
+}
